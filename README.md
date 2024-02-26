@@ -8,10 +8,10 @@
  cesar@github
  ────────────
  🌱 Name: Cesar Muñoz
- 🚀 Uptime: 23 years
  🎓 Major: Software Engineering
  💖 Language: Javascript
- 🔥 OS: GNU/Linux  
+ 🚀 Uptime: 2+ Years
+ 🔥 OS: Linux  
  💻 Editor: Neovim
  ⭐ Email: munozcesar.cm@gmail.com
 ```
